@@ -1,0 +1,66 @@
+Out put
+
+
+pattern 54
+ {
+A BB CCC DDDD EEEEE
+}
+
+pattern54A
+{
+A
+AB
+ABC
+ABCD
+ABCDE
+}
+
+pattern55
+{
+
+A
+BA
+CBA
+DCBA
+EDCBA
+}
+
+pattern56
+{
+
+1 6 11 16 21
+2 7 12 17 22
+3 8 13 18 23
+4 9 14 19 24
+5 10 15 20 25
+}
+
+pattern(56A)
+{
+
+1
+2 7
+3 8 13
+4 9 14 19
+5 10 15 20 25
+}
+
+pattern(57)
+{
+
+1
+2 3
+4 5 6
+7 8 9 10
+11 12 13 14 15
+}
+
+Pattern(58)
+{
+
+Aa
+AaBb
+AaBbCc
+AaBbCcDd
+AaBbCcDdEe
+}
